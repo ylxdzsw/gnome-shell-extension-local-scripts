@@ -2,6 +2,6 @@
     "uuid": "local-scripts@ylxdzsw.com",
     "name": "Local scripts",
     "description": "Scripts are just clicks away",
-    "shell-version": [ "3.32" ],
+    "shell-version": [ "3.32", "3.34", "3.36", "3.38", "40.0" ],
     "url": "https://github.com/ylxdzsw/gnome-shell-extension-local-scripts"
 }

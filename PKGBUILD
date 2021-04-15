@@ -2,7 +2,7 @@
 
 pkgname=gnome-shell-extension-local-scripts-git
 pkgdesc="Scripts are just clicks away"
-pkgver=0
+pkgver=r1.34f2dde
 pkgrel=1
 arch=(any)
 url='https://github.com/ylxdzsw/gnome-shell-extension-local-scripts'
